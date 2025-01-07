@@ -1,0 +1,20 @@
+{
+  "Text": {
+    "m_OwnerString": "6afbd452dcd44261aeed8c2c555cd265"
+  },
+  "ShowConditions": {
+    "Conditions": [
+      {
+        "PatchType": "Insert",
+        "NewElement": {
+          "$type": "a091db175cce8f94f815f98e9e353a84, AnswerSelected",
+          "name": "$AnswerSelected$3ce9b11fa6ad4034bae164f0cd6594f9",
+          "Not": true,
+          "m_Answer": "!bp_be2c2ef438bb43a499e903a6a2612a9c",
+          "CurrentDialog": false
+        },
+        "InsertAfterTarget": "$AnswerSelected$36aa4ba9f3f04480af613e5208cf8d25"
+      }
+    ]
+  }
+}

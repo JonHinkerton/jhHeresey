@@ -1,0 +1,40 @@
+{
+    "strings": {
+		"17523a57-4c7b-46d1-8cc2-7f8617e2f637": {
+		  "Offset": 0,
+		  "Text": "\"I have no intention of introducing myself to an obsequious servant.\""
+		},
+		"669074c4-ceb9-449e-b4cf-2152266f4d0b": {
+		  "Offset": 0,
+		  "Text": "\"I have always known myself destined to hold such power. I am ready to prove this to you.\""
+		},
+		"68c81888-7764-4496-b7ad-f28481b8e743": {
+		  "Offset": 0,
+		  "Text": "\"Very well traitor, I will do as you ask.\""
+		},
+		"e58024df-edfe-49ac-9161-17e989151ccf": {
+		  "Offset": 0,
+		  "Text": "{n}Several long moments pass. The Sentinel's jaws remain closed, and you are beginning to feel sick. Perhaps if you were to lean against the gate, you could catch your breath, maybe even close your eyes and pretend none of this ever ha—{/n}"
+		},
+		"a70f4e31-9793-4754-bb97-8cb132353174": {
+		  "Offset": 0,
+		  "Text": "{n}Theodora watches you without blinking. Her snake-like gaze penetrating your soul, searching out your deepest desires, making you forget about the fire searing you, leaving burns on your skin.{/n} \"I can lead you out of these flames, {name}. Show you a path to the greatness you so very much deserve and the power to cast down your rivals and raise your banner in the light of the coming dawn. Decide.\""
+		},
+		"8c84cc01-cde5-490a-936f-2efe3eac9c54": {
+		  "Offset": 0,
+		  "Text": "[Accept the offer of help] \"Show me the way. I will have this power.\""
+		},
+		"16d90eb6-4a7f-4c0c-9199-22049fd25735": {
+		  "Offset": 0,
+		  "Text": "{n}Theodora offers her hand — and the air around you seems to tighten, becoming thick and viscous, enveloping you and your companions in an impenetrable veil. Theodora smiles at you. Her radiant, piercing blue eyes suddenly remind you of Voigtvir's.{/n}"
+		},
+		"ce7c95cb-8572-4614-967f-8bed79f72f9d": {
+		  "Offset": 0,
+		  "Text": "\"Your ambition proves your blood. I shall show you the path to the break of day...\""
+		},
+		"f2e57fee-5a95-4ca8-82d6-14fee2e16974": {
+		  "Offset": 0,
+		  "Text": "{n}A cavalcade of hazy glimpses of a future yet unknown passes before your eyes. A flash of crimson... purple... The images replace one another in a violent kaleidoscope without ever letting you get a proper look at them. Through the rippling mirage, you see a twisted image of Abelard, the loyal Seneschal of the dynasty.{/n} \"The path is set, Child of the Dawn. The thread is woven. Follow it to me...\""
+		}
+    }
+}
