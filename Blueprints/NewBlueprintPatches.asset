@@ -14,8 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Entries:
   - Guid: a604590c45194ef19bf572aa8733bb7e
-    Filename: AnswersList_0006
+    Filename: AnswersList_0006.patch
     PatchType: 2
   - Guid: b591f3e3c47640d0ae7caf8ffb82bab3
-    Filename: Answer_9
+    Filename: Answer_9.patch
+    PatchType: 2
+  - Guid: c9d56611363b4a13a6012b500c7afa33
+    Filename: CorruptedInfernoPistol_Item.patch
     PatchType: 2

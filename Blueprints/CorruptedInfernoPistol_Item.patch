@@ -1,0 +1,20 @@
+{
+  "Components": [
+    {
+      "PatchType": "Insert",
+      "NewElement": {
+        "$type": "65221a9a6133bd0408b019b86642d97e, AddFactToEquipmentWielder",
+        "name": "$AddFactToEquipmentWielder$57fef521-1304-4777-8b3d-37c903f2090d",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Fact": "!bp_f53c2f4e3e4443c0b0adeb6edc34cf65"
+      },
+      "InsertAfterTarget": "$EquipmentRestrictionHasFacts$28d4cde6-80b4-4aac-b93b-43ea13ba9964"
+    }
+  ],
+  "WarhammerMaxAmmo": 5
+}

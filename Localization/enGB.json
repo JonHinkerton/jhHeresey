@@ -18,7 +18,7 @@
 		},
 		"a70f4e31-9793-4754-bb97-8cb132353174": {
 		  "Offset": 0,
-		  "Text": "{n}Theodora watches you without blinking. Her snake-like gaze penetrating your soul, searching out your deepest desires, making you forget about the fire searing you, leaving burns on your skin.{/n} \"I can lead you out of these flames, {name}. Show you a path to the greatness you so very much deserve and the power to cast down your rivals and raise your banner in the light of the coming dawn. Decide.\""
+		  "Text": "{n}Theodora watches you without blinking. Her snake-like gaze penetrating your soul, searching out your deepest desires, making you forget about the fire searing you.{/n} \"I can lead you out of these flames, {name}. Show you a path to the greatness you so very much deserve. To the power to cast down your rivals and raise your banner in the light of the coming dawn. Decide.\""
 		},
 		"8c84cc01-cde5-490a-936f-2efe3eac9c54": {
 		  "Offset": 0,
@@ -35,6 +35,14 @@
 		"f2e57fee-5a95-4ca8-82d6-14fee2e16974": {
 		  "Offset": 0,
 		  "Text": "{n}A cavalcade of hazy glimpses of a future yet unknown passes before your eyes. A flash of crimson... purple... The images replace one another in a violent kaleidoscope without ever letting you get a proper look at them. Through the rippling mirage, you see a twisted image of Abelard, the loyal Seneschal of the dynasty.{/n} \"The path is set, Child of the Dawn. The thread is woven. Follow it to me...\""
+		},
+		"9d751c7c-0496-44bd-b4b3-48bf4da8fae2": {
+		  "Offset": 0,
+		  "Text": "This pistol increases the wielder's {g|Encyclopedia:SkillCoercion}Coercion{/g} by +10, does not require weapon proficiency to be wielded, and deals an additional level/2 damage."
+		},
+		"121f7ac2-b0d9-44a6-a923-6d1a158b5014": {
+		  "Offset": 0,
+		  "Text": "Corruption"
 		}
     }
 }
