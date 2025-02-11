@@ -38,11 +38,15 @@
 		},
 		"9d751c7c-0496-44bd-b4b3-48bf4da8fae2": {
 		  "Offset": 0,
-		  "Text": "This pistol increases the wielder's {g|Encyclopedia:SkillCoercion}Coercion{/g} by +10, does not require weapon proficiency to be wielded, and deals an additional level/2 damage."
+		  "Text": "This weapon increases the wielder's {g|Encyclopedia:SkillCoercion}Coercion{/g} by +10.\nThis weapon does not require melta weapon proficiency to be wielded.\nThis weapon deals an additional level/2 damage."
 		},
 		"121f7ac2-b0d9-44a6-a923-6d1a158b5014": {
 		  "Offset": 0,
 		  "Text": "Corruption"
+		},
+		"55ff85ad-6b42-458f-a63c-9536dc027824": {
+		  "Offset": 0,
+		  "Text": "\"You are foresaken, Aurora. I have become the predestined. You will fall that I may rise.\""
 		}
     }
 }
