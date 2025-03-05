@@ -44,9 +44,29 @@
 		  "Offset": 0,
 		  "Text": "Corruption"
 		},
+		"879e3db4-734c-41c2-8184-37d3c1cd3a32": {
+		  "Offset": 0,
+		  "Text": "{n}You feel the sword's immense weight pulling you down. You resist its will with all of your might, straining to the sound of odious laughter. The effort is such that you fear your back could break at any moment, yet you stand.{/n}"
+		},
 		"55ff85ad-6b42-458f-a63c-9536dc027824": {
 		  "Offset": 0,
-		  "Text": "\"You are foresaken, Aurora. I have become the predestined. You will fall that I may rise.\""
+		  "Text": "\"You are forsaken, Aurora. I have become the predestined. You will fall that I may rise.\""
+		},
+		"85bf4c13-9ac4-43c2-9582-cd8bd6ba6417": {
+		  "Offset": 0,
+		  "Text": "\"The warrant grants me much power. Should the blessing of your masters bring me more, then I would promise you this trade.\""
+		},
+		"12330b4d-3d40-4183-b6da-b1b5924b0a72": {
+		  "Offset": 0,
+		  "Text": "{n}The High Factotum bows before you in deference, then speaks in a conspiratorial tone.{/n} \"Your {mf|Lordship|Ladyship}, allow me to steal a few minutes of your precious time. I come to you on behalf of your lowly devotees, who have bestowed upon me the honour of bringing you news of our labors in your name.\""
+		},
+        "74f24b26-88b0-4bd9-9c0b-7eb724416ec0": {
+		  "Offset": 0,
+		  "Text": "\"Glorious tales of your power travel far and wide, not only across the decks of this vessel, but also throughout the protectorate. Your name instills enough fear and awe that people think twice before uttering it without reason... or they call on you in their most desperate prayers. Yes, Lord Captain, at times... your name is spoken instead of His among the commoners. Of course, there are also those of us who have long sought to to serve you and glorify your name and deeds above all others.\""
+		},
+		"a27e7776-1410-4760-af7e-ba39ce2217a9": {
+		  "Offset": 0,
+		  "Text": "\"Followers of your cult have created a relic for you — an altar suitable to your needs as you draw forth the power you are entitled to. I felt compelled to ensure that no one interrupted your... work... and had it placed in a secret room within your chambers. Does Your {mf|Lordship|Ladyship} wish to see it?\""
 		}
     }
 }
